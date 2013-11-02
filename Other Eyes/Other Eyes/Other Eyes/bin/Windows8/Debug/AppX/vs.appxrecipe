@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GDD-2</Machine>
+    <WindowsUser>cjc3973</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>FBEDA590B3C0095FEE50DFA13E6834233B0EA0CF159CFC34032A38FD3702C5B7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1361a541-64b2-43ec-ad30-3e370ec4429f_1.0.0.0_neutral__3tg5vx5hewgmj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1361a541-64b2-43ec-ad30-3e370ec4429f_3tg5vx5hewgmj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1361a541-64b2-43ec-ad30-3e370ec4429f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=cjc3973</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-02T00:51:05.685</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.exe">
+      <PackagePath>Other Eyes.exe</PackagePath>
+      <Modified>2013-11-02T00:51:05.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.pdb">
+      <PackagePath>Other Eyes.pdb</PackagePath>
+      <Modified>2013-11-02T00:51:05.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2013-02-25T16:44:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T18:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T18:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T18:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T18:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-11-02T00:46:27.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-01-06T18:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+      <Modified>2013-11-02T00:46:27.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-02T00:48:31.863</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

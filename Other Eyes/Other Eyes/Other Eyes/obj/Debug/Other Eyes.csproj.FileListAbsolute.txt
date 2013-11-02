@@ -1,0 +1,91 @@
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.exe
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.pdb
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\resources.pri
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\AppxManifest.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.build.appxrecipe
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\MonoGame.Framework.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct2D1.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct3D11.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.DXGI.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.MediaFoundation.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XAudio2.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XInput.dll
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XInput.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct2D1.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct3D11.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.DXGI.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.MediaFoundation.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XAudio2.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.csprojResolveAssemblyReference.cache
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\App.g.i.cs
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\App.g.cs
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Common\StandardStyles.g.i.cs
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Common\StandardStyles.g.cs
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\GamePage.g.i.cs
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\GamePage.g.cs
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\XamlTypeInfo.g.cs
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\App.xaml
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Common\StandardStyles.xaml
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\GamePage.xaml
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.exe
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.pdb
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.csproj.GenerateResource.Cache
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\SharpDX\priconfig.xml.intermediate
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\SharpDX\Resources.resfiles.intermediate
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\SharpDX.pri
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\SharpDX\LanguageQualifiers.txt
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\priconfig.xml.intermediate
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\layout.resfiles.intermediate
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\resources.resfiles.intermediate
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\pri.resfiles.intermediate
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\priconfig.xml
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\layout.resfiles
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\resources.resfiles
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\pri.resfiles
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\LanguageQualifiers.txt
+Z:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\ProjectArchitectures.txt
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.exe
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.pdb
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\resources.pri
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\AppxManifest.xml
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\Other Eyes.build.appxrecipe
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\MonoGame.Framework.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct2D1.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct3D11.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.DXGI.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.MediaFoundation.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XAudio2.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XInput.dll
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.xml
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XInput.xml
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct2D1.xml
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.Direct3D11.xml
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.DXGI.xml
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.MediaFoundation.xml
+D:\Other Eyes\Other Eyes\Other Eyes\bin\Windows8\Debug\SharpDX.XAudio2.xml
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.csprojResolveAssemblyReference.cache
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\App.g.i.cs
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\App.g.cs
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Common\StandardStyles.g.cs
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\GamePage.g.i.cs
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\GamePage.g.cs
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\XamlTypeInfo.g.cs
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\App.xaml
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Common\StandardStyles.xaml
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\GamePage.xaml
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.exe
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.pdb
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\Other Eyes.csproj.GenerateResource.Cache
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\SharpDX.pri
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\SharpDX\LanguageQualifiers.txt
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\priconfig.xml
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\layout.resfiles
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\resources.resfiles
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\pri.resfiles
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\LanguageQualifiers.txt
+D:\Other Eyes\Other Eyes\Other Eyes\obj\Debug\ProjectArchitectures.txt
